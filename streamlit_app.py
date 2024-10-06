@@ -183,4 +183,4 @@ elif selected_path == "DevOps":
 
 # Footer
 st.markdown("---")
-st.markdown("Created by [Your Name](https://your-profile-link)")
+st.markdown("Created by [M L R GOUTHAM](https://www.linkedin.com/in/mlr-goutham-6a31962aa/)")
